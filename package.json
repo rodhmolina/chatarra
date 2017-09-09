@@ -1,0 +1,20 @@
+{
+  "name": "chatarra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node node_modules/node-red/red.js --settings settings.js --userDir ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodhmolina/chatarra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodhmolina/chatarra/issues"
+  },
+  "homepage": "https://github.com/rodhmolina/chatarra#readme"
+}
