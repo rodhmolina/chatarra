@@ -7,8 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-	"start": "node index.js",
-	"node": "node node_modules/node-red/red.js --settings settings.js --userDir ./",
+	"start": "node node_modules/node-red/red.js --settings settings.js --userDir ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
