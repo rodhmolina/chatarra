@@ -11,6 +11,9 @@
 	"node": "node node_modules/node-red/red.js --settings settings.js --userDir ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+     "node-red": "0.16.x"
+	 },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodhmolina/chatarra.git"
